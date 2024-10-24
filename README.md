@@ -15,4 +15,6 @@ Libraries: statsmodels, datetime, scikit-learn, matplotlib, seaborn, pandas, num
 
 - The dataset of renewable energy generation is from [data.open-power-system-data.org](https://data.open-power-system-data.org/time_series/2020-10-06) (original source: ENTSO-E Transparency).
 
+## Acknowledgement
+This project is done under the Guidance of Prof. Dominik Gager, Darmstadt University of Applied Sciences 
 
